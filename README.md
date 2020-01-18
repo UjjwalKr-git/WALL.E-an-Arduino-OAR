@@ -35,7 +35,26 @@ Digital PWM Pin ***~3*** to Servo Motor **PULSE Wire**.\
 Digital Pin ***13*** to **+ve** Buzzer Pin.\
 ***Gnd*** to **-ve** Buzzer Pin.
 4. ***Arduino UNO*** to **Ultrasonic Sensor** :\
-5V input and GND to Ultrasonic Sensor.\
+***5V input and GND*** to **Ultrasonic Sensor**.\
 ***A2*** to **Trig.**\
-A1 to Eco.
+***A1*** to **Eco**.
 5. ***Motor Driver*** to **Gear Motors**.
+
+<br />
+<br />
+
+## Copyright Notice : -
+
+Copyright [2020] [UjjwalKr]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
