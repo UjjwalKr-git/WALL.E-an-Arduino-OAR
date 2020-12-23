@@ -1,4 +1,4 @@
-# **WALL.E** *1.0*
+# **WALL.E** *(An OAR)*
 WALL.E is an Obstacle Avoiding Robot with so many applications..!\
 I made this as a *collage* as well as ***hobby project*** but its applications are in many fields.
 \
