@@ -24,7 +24,7 @@ This Robot detects obstacle and changes its course according to it. **This funct
 8. 9V Batteries - 2
 9. Piezo Buzzer - 1
 
-## CONSTRUCTION or CONNECTIONS : -
+## CONSTRUCTION or CONNECTIONS :-
 1. ***Arduino UNO*** to **Motor Driver** :\
 Digital Pins ***~6, ~9, ~10, ~11*** to **in1, in2, in3, in4** respectively.\
 ***Gnd*** to **Neutral**.
@@ -39,22 +39,3 @@ Digital Pin ***13*** to **+ve** Buzzer Pin.\
 ***A2*** to **Trig.**\
 ***A1*** to **Eco**.
 5. ***Motor Driver*** to **Gear Motors**.
-
-<br />
-<br />
-
-## Copyright Notice : -
-
-Copyright [2020] [UjjwalKr]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
